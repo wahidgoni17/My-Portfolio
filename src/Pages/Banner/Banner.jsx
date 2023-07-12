@@ -36,7 +36,7 @@ const Banner = () => {
                 See My Work
               </button>
             </Link>
-            <NavLink to="https://drive.google.com/file/d/1kWgmKSwZukl3CzRsw1taR1sc-4osj8sq/view?usp=drive_link">
+            <NavLink to="https://drive.google.com/file/d/1zJWCT6mAd2wxeQ0WtjQ9amKlPdJWIMkq/view?usp=sharing">
               <button className="btn bg-blue-800 border-none text-white">
                 My Resume
               </button>
